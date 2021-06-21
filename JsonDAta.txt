@@ -1,0 +1,27 @@
+{
+	"ename": "mahesh",
+  "email": "more",
+  "salary": "more.com",
+  "semp":[{"perMobno":123456,"tempMobno":456789},
+          {"perMobno":145612,"tempMobno":45124569}
+         ]
+}
+
+{
+	"ename": "mahesh",
+  "email": "more",
+  "salary":12456,
+  "semp":[{"perMobno":123456,"tempMobno":456789},
+          {"perMobno":145612,"tempMobno":45124569}
+         ]
+}
+
+
+{
+	"ename": "mahesh",
+  "email": "more",
+  "salary":12456,
+  "semp":[{"perMobno":123456,"tempMobno":456789},
+           {"perMobno":12116,"tempMobno":11111}]
+         
+}
